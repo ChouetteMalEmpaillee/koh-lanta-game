@@ -19,5 +19,5 @@ let Parameters = {
     MIN_DURATION: 500,
 
     // Facteur de réduction de la vitesse de chute (plus le temps passe, plus la chute est rapide)
-    DECREASING_DURATION_FACTOR: 0.075,
+    DECREASING_DURATION_FACTOR: 0.3,
 };
