@@ -13,11 +13,11 @@ let Parameters = {
     FAILING_FAST_FACTOR: 2,
 
     // Durée de la chute initale
-    BASE_DURATION: 4000,
+    BASE_DURATION: 2000,
 
     // Durée minimale de la chute
     MIN_DURATION: 500,
 
     // Facteur de réduction de la vitesse de chute (plus le temps passe, plus la chute est rapide)
-    DECREASING_DURATION_FACTOR: 0.3,
+    DECREASING_DURATION_FACTOR: 0.50,
 };
